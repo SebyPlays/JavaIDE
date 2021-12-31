@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../lib/lombok-1.18.20.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="JEvent" />
+    <orderEntry type="module" module-name="JLogManager" />
+    <orderEntry type="library" name="procyon-0.5.33" level="project" />
+    <orderEntry type="module" module-name="ConsolePrinter" />
+    <orderEntry type="library" name="google-java-format-1.5-all-deps" level="project" />
+    <orderEntry type="library" name="compiler-2.21ea1" level="project" />
+    <orderEntry type="library" name="slf4j-api-2.0.0-alpha1" level="project" />
+    <orderEntry type="library" name="com.sun.tools-1.8.0_jdk8u275-b01_linux_x64" level="project" />
+    <orderEntry type="module" module-name="JModule" />
+  </component>
+</module>
